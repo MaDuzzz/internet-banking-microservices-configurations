@@ -33,7 +33,7 @@ app:
       server-url: http://keycloak-web-service:8080
       realm: dungtm-internet-banking
       clientId: dungtm-internet-banking-kc-api-client
-      client-secret: koS4tPpw5xPqMX2cczBOmkWJIon7Ju3D
+      client-secret: YS3UQXzAvEsUTfPM0qRpp7T1KAoTF8Y3
   feign:
     client:
       core-banking: core-banking-service
