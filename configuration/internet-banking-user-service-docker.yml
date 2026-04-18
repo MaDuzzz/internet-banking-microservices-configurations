@@ -31,8 +31,8 @@ app:
   config:
     keycloak:
       server-url: http://keycloak-web-service:8080
-      realm: javatodev-internet-banking
-      clientId: javatodev-internet-banking-kc-api-client
+      realm: dungtm-internet-banking
+      clientId: dungtm-internet-banking-kc-api-client
       client-secret: koS4tPpw5xPqMX2cczBOmkWJIon7Ju3D
   feign:
     client:
