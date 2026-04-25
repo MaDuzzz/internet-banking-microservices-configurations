@@ -36,4 +36,4 @@ app:
       client-secret: YS3UQXzAvEsUTfPM0qRpp7T1KAoTF8Y3
   feign:
     client:
-      core-banking: core-banking-service
+      core-banking: internet-banking-core-banking-service
