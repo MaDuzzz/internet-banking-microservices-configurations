@@ -44,7 +44,7 @@ app:
   config:
     keycloak:
       url: http://keycloak-web-service:8080
-      realm: javatodev-internet-banking
+      realm: dungtm-internet-banking
 
 management:
   tracing:
